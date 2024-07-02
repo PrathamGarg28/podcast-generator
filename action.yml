@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Unique Podcast Generator"
 authon: "Pratham Garg"
 description: "Generates a feed for podcast"
 runs:
